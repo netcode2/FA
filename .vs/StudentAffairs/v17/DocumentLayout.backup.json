@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|c:\\users\\al-noor\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\project mostafa\\studentaffairs\\studentaffairs\\gotostage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\gotostage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\gotostage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\gotostage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\studentgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\studentgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\lecturescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\lecturescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\studentgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\studentgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\stagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\stagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\stagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\stagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\lecturescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\lecturescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\studentaffairs\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096E60CE-B6A0-4AD0-A3A8-E33689C957BC}|StudentAffairs\\StudentAffairs.csproj|solutionrelative:studentaffairs\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\FormMain.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\FormMain.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\FormMain.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:58:49.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\DepartmentsForm.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\DepartmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:32:22.972Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoToStage.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\GoToStage.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\GoToStage.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\GoToStage.cs",
+              "RelativeToolTip": "StudentAffairs\\GoToStage.cs",
+              "ViewState": "AgIAAMkCAAAAAAAAAAAswO8CAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:18:35.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentsForm.cs",
+              "RelativeToolTip": "StudentAffairs\\StudentsForm.cs",
+              "ViewState": "AgIAAHADAAAAAAAAAAArwIQDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:54:07.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoToStage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\GoToStage.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\GoToStage.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\GoToStage.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\GoToStage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:16:26.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentGrades.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentGrades.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\StudentGrades.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentGrades.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\StudentGrades.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:24:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LectureScheduleForm.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\LectureScheduleForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\LectureScheduleForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\LectureScheduleForm.cs",
+              "RelativeToolTip": "StudentAffairs\\LectureScheduleForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:44:00.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LectureScheduleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\LectureScheduleForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\LectureScheduleForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\LectureScheduleForm.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\LectureScheduleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:43:42.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectsForm.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\SubjectsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\SubjectsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\SubjectsForm.cs",
+              "RelativeToolTip": "StudentAffairs\\SubjectsForm.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAWwEQBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T21:20:28.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubjectsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\SubjectsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\SubjectsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\SubjectsForm.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\SubjectsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:38:16.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StagesForm.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StagesForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\StagesForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StagesForm.cs",
+              "RelativeToolTip": "StudentAffairs\\StagesForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAIAwwH8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T20:10:58.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\InstructorsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\InstructorsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\InstructorsForm.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\InstructorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T21:11:23.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StagesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StagesForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\StagesForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StagesForm.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\StagesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:41:34.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "StudentAffairs\\StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:51:03.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InstructorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\InstructorsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\InstructorsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\InstructorsForm.cs",
+              "RelativeToolTip": "StudentAffairs\\InstructorsForm.cs",
+              "ViewState": "AgIAAD4CAAAAAAAAAAAhwF0CAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T21:16:52.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentGrades.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentGrades.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\StudentGrades.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\StudentGrades.cs",
+              "RelativeToolTip": "StudentAffairs\\StudentGrades.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAMwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T23:34:28.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\FormMain.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\FormMain.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\FormMain.cs",
+              "RelativeToolTip": "StudentAffairs\\FormMain.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAD4v1oBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:29:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "StudentAffairs\\DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\AL-NOOR\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Project Mostafa\\StudentAffairs\\StudentAffairs\\DepartmentsForm.cs",
+              "RelativeToolTip": "StudentAffairs\\DepartmentsForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAD4v3UAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:02:20.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

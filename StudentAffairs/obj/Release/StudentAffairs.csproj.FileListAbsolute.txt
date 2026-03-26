@@ -1,0 +1,43 @@
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\bin\Release\StudentAffairs.exe.config
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\bin\Release\StudentAffairs.exe
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\bin\Release\StudentAffairs.pdb
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\bin\Release\Guna.UI2.dll
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.csproj.AssemblyReference.cache
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.Form1.resources
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.FormMain.resources
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.Properties.Resources.resources
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.csproj.GenerateResource.cache
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.csproj.CoreCompileInputs.cache
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentA.8A26CD42.Up2Date
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.exe
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.pdb
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.exe.config
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.StudentsForm.resources
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.LectureScheduleForm.resources
+C:\Users\AL-NOOR\source\repos\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.InstructorsForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\bin\Release\StudentAffairs.exe.config
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\bin\Release\StudentAffairs.exe
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\bin\Release\StudentAffairs.pdb
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\bin\Release\Guna.UI2.dll
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.csproj.AssemblyReference.cache
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.exe.config
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.DepartmentsForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.Form1.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.FormMain.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.InstructorsForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.LectureScheduleForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.Properties.Resources.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.StudentsForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.csproj.GenerateResource.cache
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.csproj.CoreCompileInputs.cache
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentA.8A26CD42.Up2Date
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.exe
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.pdb
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.StagesForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.SubjectsForm.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.StudentGrades.resources
+C:\Users\AL-NOOR\OneDrive\سطح المكتب\Project Mostafa\StudentAffairs\StudentAffairs\obj\Release\StudentAffairs.GoToStage.resources
