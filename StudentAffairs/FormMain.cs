@@ -20,6 +20,7 @@ namespace StudentAffairs
             InitializeComponent();
             _userId = userId;
             _fullName = fullName;
+            this.AutoScaleMode = AutoScaleMode.Dpi;
             this.WindowState = FormWindowState.Maximized;
             label1.Text = $"Welcome {fullName}";
 
